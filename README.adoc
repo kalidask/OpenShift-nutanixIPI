@@ -1,0 +1,9 @@
+# OpenShift-nutanixIPI
+====
+
+This is a prerequisite documents for Installing OpenShift 4 on Nutanix on IPI mode
+====
+
+Red Hat OpenShift Container Platform version 4.11 has been tested for specific compatibility -
+
+For your respective version of *Nutanix Version* compatibility do refer the OpenShift Documentation (https://docs.openshift.com/container-platform/4.11/installing/installing_nutanix/preparing-to-install-on-nutanix.html)
